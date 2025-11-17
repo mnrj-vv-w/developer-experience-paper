@@ -36,6 +36,15 @@ translations/en/         # 英語版（準備中）
 - X (Twitter)
 - developer-experience-observatory (GitHub)
 
+## 運用ルール・方針
+
+docs/
+├── CONTRIBUTING.md      # 貢献ガイドライン
+├── COMMIT_CONVENTIONS.md # コミット規約
+├── WORKFLOW.md          # ワークフロー
+└── CITATION.md          # 引用・学術利用ガイド
+
+
 ## 📝 ライセンス
 
 Copyright (c) 2025 Ryuji Mori
