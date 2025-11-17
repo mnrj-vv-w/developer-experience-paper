@@ -38,7 +38,7 @@ translations/en/         # 英語版（準備中）
 
 ## 📝 ライセンス
 
-Copyright (c) 2024 Ryuji Mori
+Copyright (c) 2025 Ryuji Mori
 All rights reserved.
 
 ## 🔗 関連プロジェクト
