@@ -37,7 +37,7 @@
 
 ### BibTeX形式
 ```bibtex
-@misc{yourname2025devexp,
+@misc{mori2025tron40years,
   author = {森　龍二},
   title = {40年の謎：なぜTRONは安定し、私の開発ツールは毎月変わるのか——VC資本が生む不安定性と、その構造的解決策},
   year = {2025},
@@ -102,7 +102,7 @@ DOI取得後の引用例：
 
 - **GitHub**: https://github.com/mnrj-vv-w/developer-experience-paper
 - **note**: https://note.com/ryu_to_kusanone
-- **Zenn**: https://zenn.dev/mnrj-vv-w/articles/xxxxx
+- **Zenn**: https://zenn.dev/mnrj-vv-w/articles/3ca9e56a3a9938
 
 引用時は該当するプラットフォームのURLを使用してください。
 

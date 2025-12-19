@@ -2,7 +2,34 @@
 
 All notable changes to this project will be documented in this file.
 
-## [1.0.0] - 2024-11-17
+The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
+and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
+
+## [Unreleased]
+
+### Planned
+- 英語版翻訳
+- 図表の視覚化（Excalidraw）
+- note/Zenn公開版
+- Twitterスレッド版
+
+## [1.1.0] - 2025-12-19
+
+### Added
+- 謝辞セクション追加
+
+### Changed
+- セクション3: TRONの記述を技術的に正確に修正
+  - 「後方互換性」→「一貫した設計思想」
+  - 産業界での支持理由を明確化
+
+### Fixed
+- 西暦年誤り修正
+
+### Reviewed
+- 坂村健先生による技術的確認完了
+
+## [1.0.0] - 2025-11-17
 
 ### Added
 - 初回公開版
@@ -37,17 +64,6 @@ All notable changes to this project will be documented in this file.
 - 図2: 測定されない隠れたコスト
 - 表1: VC構造とKPIの関係
 - 図3: 密結合vs疎結合システム
-
----
-
-## [Unreleased]
-
-### Planned
-- 英語版翻訳
-- 図表の視覚化（Excalidraw）
-- note/Zenn公開版
-- Twitterスレッド版
-- 坂井健氏フィードバック反映（予定）
 
 ---
 
