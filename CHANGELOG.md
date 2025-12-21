@@ -8,7 +8,6 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [Unreleased]
 
 ### Planned
-- 英語版翻訳
 - 図表の視覚化（Excalidraw）
 - note/Zenn公開版
 - Twitterスレッド版
@@ -17,6 +16,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Added
 - 謝辞セクション追加
+- 英語版翻訳完成
 
 ### Changed
 - セクション3: TRONの記述を技術的に正確に修正

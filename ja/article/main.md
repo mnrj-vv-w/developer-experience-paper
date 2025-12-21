@@ -666,8 +666,8 @@ Steve Jobs が1997年のWWDCで言いました：
 
 ## メタデータ
 
-- **バージョン**: 1.0
+- **バージョン**: 1.1
 - **文字数**: 約5,500字
-- **作成日**: 2025年11月
+- **作成日**: 2025年12月
 - **ライセンス**: All rights reserved
 - **連絡先**: [GitHub: developer-experience-observatory]

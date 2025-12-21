@@ -44,7 +44,7 @@ git checkout -b refactor/improve-section-5
 
 ### 3. 変更を加える
 
-- コミット規約に従う（[COMMIT_CONVENTIONS.md](./COMMIT_CONVENTIONS.md) 参照）
+- コミット規約に従う（[COMMIT_CONVENTIONS.md](COMMIT_CONVENTIONS.md) 参照）
 - 意味のある単位でコミット
 - コミットメッセージは日本語でも英語でもOK
 
