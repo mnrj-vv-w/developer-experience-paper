@@ -1,5 +1,5 @@
 ---
-title: The 40-Year Mystery: Why TRON Stays Stable While My Dev Tools Change Every Month
+title: "The 40-Year Mystery: Why TRON Stays Stable While My Dev Tools Change Every Month"
 published: false
 description: Analyzing VC-driven instability in developer tools and proposing a structural solution through the "cushion layer"
 tags: devtools, vc, architecture, programming
