@@ -1,8 +1,11 @@
 # Citation Guide
 
-本論考の引用・学術利用ガイドです。
+本論考の引用・学術利用ガイドです。  
+Citation and academic usage guide for this paper.
 
-## 📚 基本情報
+## 📚 基本情報 / Basic Information
+
+### 日本語版 / Japanese Version
 
 **タイトル**:  
 40年の謎：なぜTRONは安定し、私の開発ツールは毎月変わるのか  
@@ -12,38 +15,88 @@
 
 **公開日**: 2025年
 
-**バージョン**: 1.0
+**バージョン**: 1.1
 
 **リポジトリ**: https://github.com/mnrj-vv-w/developer-experience-paper
 
-**ライセンス**: All rights reserved
+**ファイル**: [ja/article/main.md](../ja/article/main.md)
 
-## 🔗 引用形式
+### 英語版 / English Version
 
-### APA形式
+**Title**:  
+The 40-Year Mystery: Why TRON Stays Stable While My Dev Tools Change Every Month
+
+**Subtitle**: A Structural Solution to VC-Driven Instability
+
+**Author**: Ryuji Mori
+
+**Published**: 2025
+
+**Version**: 1.1
+
+**Repository**: https://github.com/mnrj-vv-w/developer-experience-paper
+
+**File**: [en/article/main.md](../en/article/main.md)
+
+**License**: All rights reserved
+
+## 🔗 引用形式 / Citation Formats
+
+### 日本語版 / Japanese Version
+
+#### APA形式
 ```
 森. (2025). 40年の謎：なぜTRONは安定し、私の開発ツールは毎月変わるのか——VC資本が生む不安定性と、その構造的解決策. GitHub. https://github.com/mnrj-vv-w/developer-experience-paper
 ```
 
 ### IEEE形式
 ```
-森　龍二, "40年の謎：なぜTRONは安定し、私の開発ツールは毎月変わるのか——VC資本が生む不安定性と、その構造的解決策," GitHub, Nov. 2025. [Online]. Available: https://github.com/mnrj-vv-w/developer-experience-paper
+森　龍二, "40年の謎：なぜTRONは安定し、私の開発ツールは毎月変わるのか——VC資本が生む不安定性と、その構造的解決策," GitHub, Dec. 2025. [Online]. Available: https://github.com/mnrj-vv-w/developer-experience-paper
 ```
 
 ### Chicago形式
 ```
-森　龍二. "40年の謎：なぜTRONは安定し、私の開発ツールは毎月変わるのか——VC資本が生む不安定性と、その構造的解決策." GitHub, November 17, 2025. https://github.com/mnrj-vv-w/developer-experience-paper.
+森　龍二. "40年の謎：なぜTRONは安定し、私の開発ツールは毎月変わるのか——VC資本が生む不安定性と、その構造的解決策." GitHub, December 20, 2025. https://github.com/mnrj-vv-w/developer-experience-paper.
 ```
 
-### BibTeX形式
+#### BibTeX形式
 ```bibtex
 @misc{mori2025tron40years,
   author = {森　龍二},
   title = {40年の謎：なぜTRONは安定し、私の開発ツールは毎月変わるのか——VC資本が生む不安定性と、その構造的解決策},
   year = {2025},
-  month = {11},
+  month = {12},
   howpublished = {\url{https://github.com/mnrj-vv-w/developer-experience-paper}},
-  note = {Accessed: 2025-11-17}
+  note = {Accessed: 2025-12-20}
+}
+```
+
+### 英語版 / English Version
+
+#### APA Format
+```
+Mori, R. (2025). The 40-Year Mystery: Why TRON Stays Stable While My Dev Tools Change Every Month: A Structural Solution to VC-Driven Instability. GitHub. https://github.com/mnrj-vv-w/developer-experience-paper
+```
+
+#### IEEE Format
+```
+R. Mori, "The 40-Year Mystery: Why TRON Stays Stable While My Dev Tools Change Every Month: A Structural Solution to VC-Driven Instability," GitHub, Dec. 2025. [Online]. Available: https://github.com/mnrj-vv-w/developer-experience-paper
+```
+
+#### Chicago Format
+```
+Ryuji Mori. "The 40-Year Mystery: Why TRON Stays Stable While My Dev Tools Change Every Month: A Structural Solution to VC-Driven Instability." GitHub, December 20, 2025. https://github.com/mnrj-vv-w/developer-experience-paper.
+```
+
+#### BibTeX Format
+```bibtex
+@misc{mori2025tron40years-en,
+  author = {Mori, Ryuji},
+  title = {The 40-Year Mystery: Why TRON Stays Stable While My Dev Tools Change Every Month: A Structural Solution to VC-Driven Instability},
+  year = {2025},
+  month = {12},
+  howpublished = {\url{https://github.com/mnrj-vv-w/developer-experience-paper}},
+  note = {Accessed: 2025-12-20}
 }
 ```
 
@@ -58,21 +111,35 @@
 - アクセス日を明記
 - 可能であればコミットハッシュも記載
 
-例：
+例（日本語版）：
 ```
 森　龍二 (2025) は、VCの短期圧力が開発者体験に
 与える影響を分析し、「クッション層」による解決策を
-提案している (version 1.0, commit abc1234, 
-accessed 2025-11-17)。
+提案している (version 1.1, commit abc1234, 
+accessed 2025-12-20)。
+```
+
+例（英語版）：
+```
+Mori (2025) analyzes the impact of VC's short-term pressure on 
+developer experience and proposes a solution through a "cushion layer" 
+(version 1.1, commit abc1234, accessed 2025-12-20).
 ```
 
 ### DOI取得（予定）
 
 将来的にZenodo等でDOIを取得予定。
 
-DOI取得後の引用例：
+DOI取得後の引用例 / Citation Examples After DOI Assignment：
+
+日本語版：
 ```
 森　龍二. (2025). 40年の謎：なぜTRONは安定し、私の開発ツールは毎月変わるのか——VC資本が生む不安定性と、その構造的解決策. https://doi.org/10.5281/zenodo.xxxxx
+```
+
+英語版：
+```
+Mori, R. (2025). The 40-Year Mystery: Why TRON Stays Stable While My Dev Tools Change Every Month: A Structural Solution to VC-Driven Instability. https://doi.org/10.5281/zenodo.xxxxx
 ```
 
 ## 📊 データの引用
@@ -84,27 +151,52 @@ DOI取得後の引用例：
 
 ## 🔄 バージョン管理
 
-### 特定バージョンの引用
+### 特定バージョンの引用 / Citing Specific Versions
+
+日本語版：
 ```
 # 特定コミットを引用
-森　龍二. (2025). 40年の謎... (version 1.0, commit abc1234). GitHub. https://github.com/mnrj-vv-w/developer-experience-paper/tree/abc1234
+森　龍二. (2025). 40年の謎... (version 1.1, commit abc1234). GitHub. https://github.com/mnrj-vv-w/developer-experience-paper/tree/abc1234
 
 # 特定タグを引用
-森　龍二. (2025). 40年の謎... (version 1.0). GitHub. https://github.com/mnrj-vv-w/developer-experience-paper/releases/tag/v1.0
+森　龍二. (2025). 40年の謎... (version 1.1). GitHub. https://github.com/mnrj-vv-w/developer-experience-paper/releases/tag/v1.1
 ```
 
-### 最新版の引用
+英語版：
+```
+# Citing specific commit
+Mori, R. (2025). The 40-Year Mystery... (version 1.1, commit abc1234). GitHub. https://github.com/mnrj-vv-w/developer-experience-paper/tree/abc1234
+
+# Citing specific tag
+Mori, R. (2025). The 40-Year Mystery... (version 1.1). GitHub. https://github.com/mnrj-vv-w/developer-experience-paper/releases/tag/v1.1
+```
+
+### 最新版の引用 / Citing Latest Version
+
+日本語版：
 ```
 森　龍二. (2025). 40年の謎... (latest version). GitHub. https://github.com/mnrj-vv-w/developer-experience-paper
 ```
 
-## 🌐 プラットフォーム別URL
+英語版：
+```
+Mori, R. (2025). The 40-Year Mystery... (latest version). GitHub. https://github.com/mnrj-vv-w/developer-experience-paper
+```
 
+## 🌐 プラットフォーム別URL / Platform-Specific URLs
+
+### 日本語版 / Japanese Version
 - **GitHub**: https://github.com/mnrj-vv-w/developer-experience-paper
+- **ファイル**: https://github.com/mnrj-vv-w/developer-experience-paper/blob/main/ja/article/main.md
 - **note**: https://note.com/ryu_to_kusanone
 - **Zenn**: https://zenn.dev/mnrj-vv-w/articles/3ca9e56a3a9938
 
-引用時は該当するプラットフォームのURLを使用してください。
+### 英語版 / English Version
+- **GitHub**: https://github.com/mnrj-vv-w/developer-experience-paper
+- **File**: https://github.com/mnrj-vv-w/developer-experience-paper/blob/main/en/article/main.md
+
+引用時は該当するプラットフォームのURLを使用してください。  
+Please use the appropriate platform URL when citing.
 
 ## 📧 引用に関する問い合わせ
 

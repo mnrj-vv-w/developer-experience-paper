@@ -22,7 +22,7 @@
 | `docs` | ドキュメント（README等） | `docs: CONTRIBUTINGに翻訳ガイド追加` |
 | `refactor` | 表現の改善（内容は不変） | `refactor: セクション2の表現を強化` |
 | `style` | フォーマット・空白等 | `style: 見出しレベルを統一` |
-| `data` | データ追加・更新 | `data: 2024年11月のプラットフォーム変更記録` |
+| `data` | データ追加・更新 | `data: 2025年11月のプラットフォーム変更記録` |
 | `translate` | 翻訳 | `translate: 英語版セクション1-3完成` |
 | `chore` | その他（ビルド、設定等） | `chore: .gitignore更新` |
 
@@ -46,7 +46,7 @@
 ✅ fix: セクション3のTRON年代を修正
 ✅ feat: 英語版README追加
 ✅ refactor: VCへの問いかけを丁寧な表現に
-✅ data: Stack Overflow 2024調査データ追加
+✅ data: Stack Overflow 5調査データ追加
 ```
 
 ### Bad Examples
@@ -91,7 +91,7 @@ Related to #456
 fix/typo-section-3
 feat/add-english-version
 refactor/improve-vc-section
-data/2024-11-platform-changes
+data/2025-11-platform-changes
 translate/en-sections-1-3
 ```
 
@@ -118,7 +118,7 @@ git commit -m "refactor: セクション5のVCへの問いかけを柔らかい�
 git commit -m "feat: セクション8追加 - 欧米の先行事例"
 
 # データ追加
-git commit -m "data: 2024年11月App Store Connect変更記録"
+git commit -m "data: 2025年11月App Store Connect変更記録"
 
 # 翻訳
 git commit -m "translate: 英語版セクション1-3完成"

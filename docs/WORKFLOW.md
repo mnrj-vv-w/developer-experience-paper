@@ -61,9 +61,9 @@ git branch -d feat/add-section-8
 ### プラットフォーム変更の記録
 ```bash
 # 1. データファイル作成
-cat > assets/data/platform-changes/2024-11-app-store-connect.json << EOF
+cat > assets/data/platform-changes/2025-11-app-store-connect.json << EOF
 {
-  "date": "2024-11-15",
+  "date": "2025-11-15",
   "platform": "App Store Connect",
   "change_type": "UI",
   "description": "ダッシュボードのレイアウト変更",
@@ -73,20 +73,20 @@ cat > assets/data/platform-changes/2024-11-app-store-connect.json << EOF
 EOF
 
 # 2. コミット
-git add assets/data/platform-changes/2024-11-app-store-connect.json
-git commit -m "data: App Store Connect 2024年11月変更記録"
+git add assets/data/platform-changes/2025-11-app-store-connect.json
+git commit -m "data: App Store Connect 2025年11月変更記録"
 ```
 
 ### アンケートデータ
 ```
-assets/data/surveys/2024-11-developer-satisfaction.csv
+assets/data/surveys/2025-11-developer-satisfaction.csv
 ```
 
 形式：
 ```csv
 date,platform,satisfaction_score,comment
-2024-11-15,App Store Connect,2,UI変更が頻繁すぎる
-2024-11-16,Expo EAS,3,ドキュメントが古い
+2025-11-15,App Store Connect,2,UI変更が頻繁すぎる
+2025-11-16,Expo EAS,3,ドキュメントが古い
 ```
 
 ## 🌐 翻訳ワークフロー
@@ -152,7 +152,7 @@ git commit -m "docs: note公開版作成"
 # 3. 実際に公開
 
 # 4. 公開記録
-echo "- 2024-11-17: note公開 https://note.com/..." >> CHANGELOG.md
+echo "- 2025-11-17: note公開 https://note.com/..." >> CHANGELOG.md
 git add CHANGELOG.md
 git commit -m "docs: note公開を記録"
 ```
