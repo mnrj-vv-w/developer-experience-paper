@@ -1,10 +1,11 @@
 # Developer Experience Paper
-
 **Languages / 言語**: [English](#english) | [日本語](#japanese)
 
 ---
 
 ## English
+
+![cover image](/assets/images/cover_en.png)
 
 ### Title
 "The 40-Year Problem: Why TRON Stays Stable but My Dev Tools Change Every Month"
@@ -31,6 +32,8 @@ Prof. Ken Sakamura (TRON Project Leader, Toyo University)
 ---
 
 ## Japanese
+
+![cover image](/assets/images/cover_jp.png)
 
 ### タイトル
 「40年の謎：なぜTRONは安定し、私の開発ツールは毎月変わるのか」
