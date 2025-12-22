@@ -52,7 +52,7 @@ figures:
 related_projects:
   - developer-experience-observatory
 
-reviewed_by:
+with_comments_from:
   - name: "Ken Sakamura"
     title: "Professor, Toyo University"
     role: "TRON Project Leader"
@@ -86,7 +86,7 @@ publication_platforms:
     url: ""
     status: "planned"
 
-license: "All rights reserved"
+license: "CC BY 4.0（Creative Commons）"
 copyright: "Copyright (c) 2025 Ryuji Mori"
 
 contact:
@@ -97,9 +97,11 @@ contact:
 funding: null
 
 acknowledgments: |
-  Special thanks to Prof. Ken Sakamura (TRON Project Leader, Toyo University) 
-  for his valuable feedback on the technical descriptions of TRON, which 
-  greatly improved the accuracy of this paper.
+  In writing this paper, I received valuable feedback from Prof. Ken Sakamura,
+  leader of the TRON Project. His detailed comments on the technical descriptions of TRON
+  were extremely helpful in revisiting and refining the explanations presented in this article.
+  I am deeply grateful.
+
 
 notes: |
   This paper originated from personal frustration with frequent platform 

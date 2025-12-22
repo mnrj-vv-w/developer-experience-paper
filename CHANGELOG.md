@@ -26,8 +26,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Fixed
 - 西暦年誤り修正
 
-### Reviewed
-- 坂村健先生による技術的確認完了
+### With comments from
+- 本論考の作成にあたり、坂村健先生（TRONプロジェクトリーダー、東洋大学）より有益なコメントをいただきました。
 
 ## [1.0.0] - 2025-11-17
 

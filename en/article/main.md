@@ -4,6 +4,22 @@
 
 ---
 
+### Scope and Methodology Note
+
+This paper distinguishes clearly between:
+- **Documented facts** (based on public documentation and observable changes),
+- **Developer experience** (based on the author’s direct experience),
+- **Structural interpretation** (analytical hypotheses).
+
+References to specific platforms or tools in the paper
+are based on publicly observable behavior or personal experience,
+and are not intended as factual claims about internal intent,
+competence, or organizational quality.
+This paper aims to contribute constructively to discussions
+on improving developer experience across the industry.
+
+---
+
 ## Again
 
 App Store Connect has changed again.
@@ -658,7 +674,15 @@ Right now, I'm a little crazy.
 
 ## Acknowledgments
 
-In writing this paper, I received valuable feedback from Prof. Ken Sakamura, leader of the TRON Project. His detailed comments on the technical descriptions of TRON greatly improved the accuracy of this article. I am deeply grateful.
+In writing this paper, I received valuable feedback from
+Prof. Ken Sakamura, 
+leader of the TRON Project.
+
+His detailed comments on the technical descriptions of TRON
+were extremely helpful in revisiting and refining the explanations
+presented in this article.
+
+I am deeply grateful.
 
 ---
 
@@ -667,7 +691,7 @@ In writing this paper, I received valuable feedback from Prof. Ken Sakamura, lea
 - **Version**: 1.1
 - **Word Count**: ~6,000
 - **Created**: November 2025
-- **License**: All rights reserved
+- **License**: CC BY 4.0（Creative Commons）
 - **Contact**: [GitHub: developer-experience-observatory]
 
 ---

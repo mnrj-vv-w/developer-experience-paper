@@ -53,8 +53,7 @@ docs/
 
 ## 📝 ライセンス
 
-Copyright (c) 2025 Ryuji Mori
-All rights reserved.
+CC BY 4.0（Creative Commons）
 
 ## 🔗 関連プロジェクト
 

@@ -38,7 +38,7 @@ The 40-Year Mystery: Why TRON Stays Stable While My Dev Tools Change Every Month
 
 **File**: [en/article/main.md](../en/article/main.md)
 
-**License**: All rights reserved
+**License**: CC BY 4.0（Creative Commons）
 
 ## 🔗 引用形式 / Citation Formats
 

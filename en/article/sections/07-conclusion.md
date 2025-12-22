@@ -63,4 +63,12 @@ Right now, I'm a little crazy.
 
 ## Acknowledgments
 
-In writing this paper, I received valuable feedback from Prof. Ken Sakamura, leader of the TRON Project. His detailed comments on the technical descriptions of TRON greatly improved the accuracy of this article. I am deeply grateful.
+In writing this paper, I received valuable feedback from
+Prof. Ken Sakamura, 
+leader of the TRON Project.
+
+His detailed comments on the technical descriptions of TRON
+were extremely helpful in revisiting and refining the explanations
+presented in this article.
+
+I am deeply grateful.
