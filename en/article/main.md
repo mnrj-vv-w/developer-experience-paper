@@ -1,3 +1,5 @@
+![cover image](/assets/images/cover_en.png)
+
 # The 40-Year Mystery: Why TRON Stays Stable While My Dev Tools Change Every Month
 
 **A Structural Solution to VC-Driven Instability**
@@ -112,6 +114,8 @@ It doesn't appear in VC KPIs:
 
 **What isn't measured doesn't exist.**  
 **So no one measures it, and no one improves it.**
+
+![ figure 2: hidden cost ](/assets/images/fig2_en.png)
 
 ---
 
@@ -277,6 +281,8 @@ Result: Changes for the sake of changes
 - Exit deadline: **None**
 - Evaluation metrics: Stability, compatibility
 - Time horizon: **Long-term**
+
+![ table 1: VC structure vs Long term project ](/assets/images/table1_en.png)
 
 ---
 
@@ -505,6 +511,8 @@ it's a structure where "short-term pressure directly hits frontline developers".
 1. **Pressure absorption** (Shield direct damage from VC→Developer)
 2. **Information translation** (Quantitative feedback from Developer→VC)
 3. **Action synchronization** (Market pressure makes it easier for both companies and developers to move)
+
+![ figure 3: cushion layer design ](/assets/images/fig3_en_3.png)
 
 ---
 
