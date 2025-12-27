@@ -66,6 +66,7 @@ The 40-Year Mystery: Why TRON Stays Stable While My Dev Tools Change Every Month
   title = {40年の謎：なぜTRONは安定し、私の開発ツールは毎月変わるのか——VC資本が生む不安定性と、その構造的解決策},
   year = {2025},
   month = {12},
+  doi = {10.5281/zenodo.18067103},
   howpublished = {\url{https://github.com/mnrj-vv-w/developer-experience-paper}},
   note = {Accessed: 2025-12-20}
 }
@@ -95,6 +96,7 @@ Ryuji Mori. "The 40-Year Mystery: Why TRON Stays Stable While My Dev Tools Chang
   title = {The 40-Year Mystery: Why TRON Stays Stable While My Dev Tools Change Every Month: A Structural Solution to VC-Driven Instability},
   year = {2025},
   month = {12},
+  doi = {10.5281/zenodo.18067103},
   howpublished = {\url{https://github.com/mnrj-vv-w/developer-experience-paper}},
   note = {Accessed: 2025-12-20}
 }
@@ -126,20 +128,18 @@ developer experience and proposes a solution through a "cushion layer"
 (version 1.1, commit abc1234, accessed 2025-12-20).
 ```
 
-### DOI取得（予定）
+### DOI
 
-将来的にZenodo等でDOIを取得予定。
-
-DOI取得後の引用例 / Citation Examples After DOI Assignment：
+DOIの引用例 / Citation Examples After DOI Assignment：
 
 日本語版：
 ```
-森　龍二. (2025). 40年の謎：なぜTRONは安定し、私の開発ツールは毎月変わるのか——VC資本が生む不安定性と、その構造的解決策. https://doi.org/10.5281/zenodo.xxxxx
+森　龍二. (2025). 40年の謎：なぜTRONは安定し、私の開発ツールは毎月変わるのか——VC資本が生む不安定性と、その構造的解決策. https://doi.org/10.5281/zenodo.18067103
 ```
 
 英語版：
 ```
-Mori, R. (2025). The 40-Year Mystery: Why TRON Stays Stable While My Dev Tools Change Every Month: A Structural Solution to VC-Driven Instability. https://doi.org/10.5281/zenodo.xxxxx
+Mori, R. (2025). The 40-Year Mystery: Why TRON Stays Stable While My Dev Tools Change Every Month: A Structural Solution to VC-Driven Instability. https://doi.org/10.5281/zenodo.18067103
 ```
 
 ## 📊 データの引用

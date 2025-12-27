@@ -32,7 +32,7 @@ This paper analyzes the structural instability in modern developer tools caused 
 ### Read the Paper
 - [📄 Full Text (English)](./en/article/main.md)
 - [🔗 GitHub Repository](https://github.com/mnrj-vv-w/developer-experience-paper)
-- [📚 DOI](Under preparation)
+- [📚 DOI](https://doi.org/10.5281/zenodo.18067103)
 
 ### Key Concepts
 - **Problem**: Frequent UI/API changes in developer platforms
@@ -74,7 +74,7 @@ In preparing this paper, I received useful comments from Professor Ken Sakamura 
 ### 論考を読む
 - [📄 完全版（日本語）](./ja/article/main.md)
 - [🔗 GitHubリポジトリ](https://github.com/mnrj-vv-w/developer-experience-paper)
-- [📚 DOI](Under preparation)
+- [📚 DOI](https://doi.org/10.5281/zenodo.18067103)
 
 ### 核心概念
 - **問題**: 開発者プラットフォームの頻繁なUI/API変更

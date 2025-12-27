@@ -12,6 +12,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - note/Zenn公開版
 - Twitterスレッド版
 
+## [1.1.2] - 2025-12-27
+- ZENODO DOI取得 (10.5281/zenodo.18067103)
+
 ## [1.1.0] - 2025-12-20
 
 ### Added
